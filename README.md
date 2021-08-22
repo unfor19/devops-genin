@@ -27,6 +27,7 @@ You are required to complete the challenge in **no longer than five (5) days**.
 1. Create a `SOLUTION.md` file and add it to the generated GitHub repository. This file should contain documentation of the whole process.
 1. Document what you did, why you did it, during this adventure. This part is crucial, and to be even more specific - this whole challenge means nothing if you can't reproduce your work and explain the logic behind your actions.
 1. Use [GitHub Actions](https://github.com/features/actions) as the CI/CD service. You can only use this specific service because it's excellent for beginners and fun for experts.
+1. Register for [DockerHub](https://hub.docker.com/), if you haven't already, to host your published Docker images.
 
 ## Upon Completing The Challenge You Are ...
 
